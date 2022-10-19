@@ -1,0 +1,32 @@
+US Accidents Data Analysis : 
+
+1-What is the most year has accidents?
+2-What is the most month has accidents?
+3-What is the most day has accidents?
+
+2021:
+1-What is the most month has accidents in 2021? 
+2-What is the probability of happing accidents 'range (20, 30 )' in one month?
+3-What is the most day has accidents in 2021?#
+4-Count of accidents on everyday in month.
+5-Count of accidents on everyday in month by weather condition.
+6-Count of accidents on everyday in month by wind direction.
+7-What is the probability of happing accidents 'range (1 : 10 )' in one day?
+8-What is the most city has accidents in 2021?
+9-What is the time that accidents are increasing?
+10-What is the most hour that has the most number of accidents and in which city?
+11-What is the probability of happing accidents 'range (10 : 20 )' in one hour?
+12-What is the most street has the most number of accidents?
+2020:
+1-What is the most month has accidents in 2020? 
+2-What is the probability of happing accidents 'range (5 : 15 )' in one month?
+3-What is the most day has accidents in 2020?
+4-What is the probability of happing accidents 'range (1 : 8 )' in one day?
+5-What is the most city has accidents in 2020?
+6-What is the time that accidents are increasing?
+7-What is the most hour that has the most number of accidents and in which city?
+8-What is the probability of happing accidents 'range (1 : 8 )' in one hour?
+9-What is the most street has the most number of accidents?
+10-Count of accidents on everyday in month.
+11-Count of accidents on everyday in month by weather condition.
+12-Count of accidents on everyday in month by wind direction.
